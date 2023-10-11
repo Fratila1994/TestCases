@@ -4,7 +4,7 @@ Below are some Test Case samples that i wrote while working on previous projects
 
 ----------------------------------
 
-**Description**
+**Description:**
 Check if the login works when a person uses a correct user/pass.
 
 **Steps to Reproduce:** 
@@ -21,7 +21,7 @@ User: radu & Pass: 123456
 
 ----------------------------------
 
-**Description** 
+**Description:** 
 Check if forgot password functionality works as expected and an email with reset passowrd link is sent.
 
 **Steps to Reproduce:** 
@@ -36,13 +36,13 @@ User should receive an email with a reset password link. That link should allow 
 **Test Data:**
 User: radu & Pass: 123456
 
-**Note** 
+**Note:** 
 Please check the login again after running this test case.
 
 
 ----------------------------------
 
-**Description**
+**Description:**
 Check the search functionality on the website. 
 
 **Steps to Reproduce:** 
@@ -59,7 +59,7 @@ The search function should handle different types of queries correctly.
 
 ----------------------------------
 
-**Description**
+**Description:**
 Check the process of adding products to the shopping cart on eMAG.
 
 **Preconditions:**
@@ -78,7 +78,7 @@ Products should be successfully added to the shopping cart.
 
 ----------------------------------
 
-**Description**
+**Description:**
 Check that the user's order history is accurate and accessible on eMAG.
 
 **Precondition:**
@@ -98,7 +98,7 @@ Order details should be accurate and accessible for review.
 
 ----------------------------------
 
-**Description** 
+**Description:** 
 Test the website compatibility with different web browsers for eMAG marketplace.
 
 **Steps to Reproduce:**
@@ -113,7 +113,7 @@ There should be no significant browser-specific issues.
 
 ----------------------------------
 
-**Description**
+**Description:**
 Check the website responsiveness on different mobile devices for eMAG marketplace.
 
 **Steps to Reproduce:**
