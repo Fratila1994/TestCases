@@ -19,4 +19,4 @@ User should be able to login and is taken to his profile page.
 User: radu & Pass: 123456
 
 
-...................................
+----------------------------------
