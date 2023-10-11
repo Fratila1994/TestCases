@@ -96,6 +96,36 @@ The order history shoud display a list of previous orders.
 Order details should be accurate and accessible for review.
 
 
+----------------------------------
+
+**Description** 
+Test the website compatibility with different web browsers for eMAG marketplace.
+
+**Steps to Reproduce:**
+1. Open the website in various web browsers
+2. Verify that the website displays and functions correctly in each browser
+3. Check for any layout or funuctionality issues that are specific to certain browsers
+
+**Expected Results:**
+The website should be functional and consistent across different web browsers.
+There should be no significant browser-specific issues.
+
+
+----------------------------------
+
+**Description**
+Check the website responsiveness on different mobile devices for eMAG marketplace.
+
+**Steps to Reproduce:**
+1. Open the website on various mobile devices(e.g., smartphone, tablet)
+2. Verify that the website adapts and displays correctly on different screen sizes
+3. Test all interactive elements for usability on mobile
+
+**Expected Results:**
+The website should be responsive and user-friendly on various mobile devices.
+All interactive elements should function as expected.
+
+
 
 
 
